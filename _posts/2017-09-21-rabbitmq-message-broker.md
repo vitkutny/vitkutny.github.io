@@ -3,11 +3,11 @@ title:  "RabbitMQ – message broker"
 tags: [rabbitmq]
 ---
 
-> Includes RabbitMQ basics explanation as well techniques Dead Letter Exchange and Remote Procedure Call.
+Includes RabbitMQ basics explanation as well techniques Dead Letter Exchange and Remote Procedure Call.
 
 ## SlideShare
 
-Link: <https://www.slideshare.net/VtKutn/rabbitmq-message-broker>
+[Link](https://www.slideshare.net/VtKutn/rabbitmq-message-broker)
 
 ---
 
@@ -19,7 +19,7 @@ Link: <https://www.slideshare.net/VtKutn/rabbitmq-message-broker>
 
 ## YouTube
 
-Link: <https://www.youtube.com/watch?v=tkoDHoVOqz4>
+[Link](https://www.youtube.com/watch?v=tkoDHoVOqz4)
 
 ---
 

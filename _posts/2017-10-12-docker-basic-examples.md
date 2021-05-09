@@ -3,15 +3,15 @@ title:  "Docker – basic examples"
 tags: [docker]
 ---
 
-> Running containers with official and custom built images, linking containers and multiple applications using nginx proxy.
+Running containers with official and custom built images, linking containers and multiple applications using nginx proxy.
 
 ## GitHub
 
-Link: <https://github.com/vitkutny/workshop/tree/master/2017-10-12-docker>
+[Link](https://github.com/vitkutny/workshop/tree/master/2017-10-12-docker)
 
 ## YouTube
 
-Link: <https://www.youtube.com/watch?v=Cty-rL4lM9g>
+[Link](https://www.youtube.com/watch?v=Cty-rL4lM9g)
 
 ---
 
